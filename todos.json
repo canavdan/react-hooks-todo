@@ -1,0 +1,24 @@
+{
+	"todos": [
+		{
+      "id":1,
+			"isCompleted": true,
+			"text": "Code furiously"
+		},
+		{
+      "id":2,
+			"isCompleted": true,
+			"text": "Do user study"
+		},
+		{
+      "id":3,
+			"isCompleted": true,
+			"text": "Write paper"
+		},
+		{
+      "id":4,
+			"isCompleted": false,
+			"text": "Have a life!!"
+		}
+	]
+}
